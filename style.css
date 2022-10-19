@@ -7,7 +7,7 @@
     min-height: 100vh;
     color:azure;
     width: 100%;
-    background-image:url(images/vegetables.jpg);
+    background-image:url(vegetables.jpg);
     background-size: cover;
     position: relative;
 }
